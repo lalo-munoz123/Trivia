@@ -1,0 +1,86 @@
+{
+    "Preguntas": [
+    {
+        "category": "Videojuegos",
+        "question": "¿Qué videojuego es el más vendido de todos los tiempos?",
+        "options":[
+
+            "Minecraft",
+            "Mario Bros",
+            "Fortnite"
+        ],
+        "answer": 0,
+        "explamation": "Desde su lanzamiento se han vendido más de 200 millones de copias, lo que convierte a Minecraft en el videojuego más vendido de la historia"
+    },
+
+    {
+        "category": "Geografia",
+        "question": "¿Cuantos continentes hay en el mundo?",
+        "options":[
+
+            "cuatro",
+            "seis",
+            "siete"
+        ],
+        "answer": 2,
+        "explamation": "Siete: América del Norte, América del Sur, África, Europa, Asia, Oceanía y la Antártida, aunque en algunos lugares América se entiende como un único continente. "
+    },
+
+    
+    {
+        "category": "Historia",
+        "question": "¿Dónde se originaron los Juegos Olímpicos?",
+        "options":[
+
+            "En Italia",
+            "En Francia",
+            "En Grecia"
+        ],
+        "answer": 2,
+        "explamation": "Esta historia comienza en 776 AC en Olimpia, Grecia, donde se realizan los primeros Juegos Olímpicos."
+    },
+
+    {
+        "category": "Musica",
+        "question": "¿Qué grupo musical ha vendido más discos en la historia?",
+        "options":[
+
+            "The Betales",
+            "ACDC",
+            "Michael Jackson",
+            "Pink Floid"
+        ],
+        "answer": 0,
+        "explamation": "'White Album' el disco más vendido de los Beatles. 600-500 millones."
+    },
+
+    {
+        "category": "Cultura",
+        "question": "¿Qué autor escribió Romeo y Julieta?",
+        "options":[
+
+            "William Shakespeare ",
+            "Mary Shelley",
+            "Charles Dickens",
+            "Miguel de Cervantes"
+        ],
+        "answer": 0,
+        "explamation": "Un 29 de enero de 1595 se estrenaba en Londres la tragedia del dramaturgo, poeta y actor inglés William Shakespeare, Romeo y Julieta"
+    },
+
+    {
+        "category": "Cine",
+        "question": "¿que pelicula ha sido la mas taquillera?",
+        "options":[
+
+            "Titanic",
+            "Avenguers",
+            "Batman",
+            "Avatar"
+        ],
+        "answer": 3,
+        "explamation": " 'Avatar' Con 2.906 millones de dólares de recaudación mundial, fue la primera película en superar los 2.000 millones ingresados tanto a nivel global como teniendo en cuenta únicamente la recaudación fuera de Estados Unidos"
+    }
+    
+    ]
+}    
